@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React
+- 🔭 I’m currently working on my own personal website.
 - 🌱 I’m currently learning Ruby on Rails
 - 👯 I’m looking to collaborate on Python Django
 - 💬 Ask me about cloud native apps
