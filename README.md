@@ -1,4 +1,7 @@
-### Hi there 👋
+![coder](https://user-images.githubusercontent.com/87413774/144971651-0a956595-9336-4f57-997c-efa655357d4e.gif)
+
+### Hi there 👋 
+
 
 - 🔭 I’m currently working on my own personal website.
 - 🌱 I’m currently learning Ruby on Rails
