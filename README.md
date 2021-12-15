@@ -1,5 +1,3 @@
-![coolcat](https://user-images.githubusercontent.com/87413774/144972559-0f307fbf-ae74-4a96-8582-234afb2e3287.gif)
-
 <h1 align="center">Hi 👋, I'm Kevin Koome</h1>
 <h3 align="center">A passionate full-stack developer from Kenya</h3>
 
