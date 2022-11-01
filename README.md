@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/koomekevo" target="blank"><img src="https://img.shields.io/twitter/follow/koomekevo?logo=twitter&style=for-the-badge" alt="koomekevo" /></a> </p>
 
-- 🔭 I’m currently working on [my personal website](https://www.kevinkoome.com)
+- 🔭 I’m currently working on [my agency's website](https://gurucrafts.net)
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **React Native and Unity**
 
 - 👯 I’m looking to collaborate on **React Native and Python Django projects**
 
 - 🤝 I’m looking for help with **DS and Algos**
 
-- 👨‍💻 All of my projects are available at [https://www.kevinkoome.com](https://www.kevinkoome.com)
+- 👨‍💻 All of my projects are available at [https://gurucrafts.net](https://gurucrafts.net)
 
 - 💬 Ask me about **Cloud Native application development**
 
 - 📫 How to reach me **koome.kevo@gurucrafts.net**
 
-- ⚡ Fun fact **I love swimming and video games**
+- ⚡ Fun fact **I love music and gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
