@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/koomekevo" target="blank"><img src="https://img.shields.io/twitter/follow/koomekevo?logo=twitter&style=for-the-badge" alt="koomekevo" /></a> </p>
 
-- 🔭 I’m currently working on [my agency's website](https://gurucrafts.net)
+- 🔭 I’m currently working on [my agency's website](https://gurucrafts.agency)
 
 - 🌱 I’m currently learning **React Native and Unity**
 
