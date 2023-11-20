@@ -15,11 +15,11 @@
 
 - 🤝 I’m looking for help with **DS and Algos**
 
-- 👨‍💻 All of my projects are available at [https://gurucrafts.net](https://gurucrafts.net)
+- 👨‍💻 All of my projects are available at [https://gurucrafts.agency](https://gurucrafts.agency)
 
 - 💬 Ask me about **Cloud Native application development**
 
-- 📫 How to reach me **koome.kevo@gurucrafts.net**
+- 📫 How to reach me **kevin.koome@gurucrafts.agency**
 
 - ⚡ Fun fact **I love music and gaming**
 
